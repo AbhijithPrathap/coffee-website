@@ -1,0 +1,316 @@
+.head{
+    background-color: rgba(109, 56, 18, 0.975);
+    border: 6px;
+    height: 150px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    font-family: 'Lobster', cursive;
+}
+.img1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.quot{
+    align-items: center;
+    text-align: center;
+    background-color: rgba(109, 56, 18, 0.975);
+    padding: 6px;
+    font-family: 'Lato', sans-serif;
+    position: sticky;
+    top: 0px;
+}
+body{
+    background-color: rgb(155, 78, 19);
+    background-image: url(https://th.bing.com/th/id/R.3c67e53d682589dcb8ce02dd3ac1e20c?rik=LeUqj%2bnBd3%2f0WA&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2017%2f11%2f17%2f239445-coffee-coffee_beans-cup.jpg&ehk=%2bEd%2bhMjaHGMrExklwM9MNbALfkaDNqvDmS67gs%2bf2OA%3d&risl=&pid=ImgRaw&r=0);
+}
+.col{
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgba(196, 170, 151, 0.027);
+}
+.row{
+    width: 500px;
+    height: 250px;
+    margin-top: 50px;
+    background-color: rgba(168, 137, 115, 0.756);
+    font-family: 'Lato', sans-serif;
+    border: 6px inset rgba(187, 139, 104, 0.573);
+    align-content: center;
+    padding: 50px;
+}
+.img2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    background-color: rgba(193, 160, 137, 0);
+
+}
+.pic{
+    width: 330px;
+    height: 330px;
+
+
+}
+.coffe{
+    width: 300px;
+    height: 300px;
+    border: 6px inset rgba(234, 211, 195, 0.388);
+    border-radius: 50px;
+
+}
+.coffe:hover{
+    width: 400px;
+    height: 400px;
+    border: 6px inset rgba(234, 211, 195, 0.388);
+    border-radius: 50%;
+
+}
+.types{
+    background-color: rgba(215, 180, 153, 0.877);
+    padding: 30px;
+    border-radius: 50px;
+    margin: 40px;
+}
+.brands{
+    background-color: rgba(215, 180, 153, 0.877);
+    border-radius: 50px;
+    margin: 40px;
+}
+.mcafe{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 40px;
+}
+.mc{
+    text-align: center;
+}
+.img3{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+.img3:hover{
+    width:350px ;
+    height: 350px;
+    border-radius: 80px;
+}
+
+.starbucs{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 40px;
+
+}
+.sb{
+    text-align: center; 
+}
+.DunkinDonuts {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 40px;
+}
+.dd{
+    text-align: center; 
+}
+.costacoffee{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 40px;
+}
+.cc{
+    text-align: center; 
+}
+.timhortens{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 40px; 
+}
+.th{
+    text-align: center; 
+}
+.nescafe{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 40px;  
+}
+.nc{
+    text-align: center;
+}
+.order{
+    background-color: rgba(215, 180, 153, 0.877);
+    border-radius: 50px;
+    margin: 40px;
+    height: 1300px;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 30px;
+    
+
+}
+.od{
+    width: 300px;
+    height:  400px;
+    background-color: rgba(196, 117, 60, 0.785);
+    margin: 65px;
+    float: left;
+    align-items: center;
+    text-align: center;
+    border-radius: 50px;
+}
+.img4{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+button{
+    border: 10px inset rgba(220, 145, 92, 0.886);
+    border-radius: 50px;
+}
+button:hover{
+    font-size: 30px;
+    background-color: rgba(214, 136, 80, 0.708);
+}
+a{
+    text-decoration: none;
+}
+.gallery{
+    background-color: rgba(215, 180, 153, 0.877);
+    border-radius: 50px;
+    margin: 40px;
+    justify-content: space-evenly;
+}
+.img5{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 20px}
+.query{
+    background-color:rgba(215, 180, 153, 0.877) ;
+    border-radius: 50px;
+    margin: 40px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    }
+form{
+    font-size: 20px;
+    width: 400px;
+    height: 200px;
+    border: 6px inset rgb(209, 158, 122);
+    text-align: center;
+    justify-content: center;
+    
+    margin-left: 450px;
+    margin-bottom: 60px;
+    padding: 40px;
+}
+.footer{
+    background-color:rgba(109, 56, 18, 0.975) ;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center; 
+    justify-content: space-around;
+}
+.foot{
+align-content: center;
+text-align: center;
+font-size: 30px;
+margin-left: 100px;
+
+
+}
+.img6{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 60px;
+    text-align: left;
+}
+.img7{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}.flav{
+    background-color:rgba(215, 180, 153, 0.877) ;
+    border-radius: 50px;
+    margin: 40px;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 40px;
+}
+.caramel{
+    display: flex;
+    justify-content: center;
+}
+.cr{
+    width: 400px;
+    height: 300px;
+    
+}.vanila{
+    display: flex;
+    justify-content: center;
+}.vl{
+    width: 400px;
+    height: 300px;
+
+}.choclate{
+    display: flex;
+    justify-content: center;
+}.ch{
+    width: 400px;
+    height: 300px;   
+}.pumkin{
+    display: flex;
+    justify-content: center;
+}.pm{
+    width: 400px;
+    height: 300px;
+}.cinnamon{
+    display: flex;
+    justify-content: center;
+}.cn{
+    width: 400px;
+    height: 300px;
+}.peper{
+    display: flex;
+    justify-content: center;
+}.pp{
+    width: 400px;
+    height: 300px; 
+}.Hazelnut{
+    display: flex;
+    justify-content: center;
+}.hz{
+    width: 400px;
+    height: 300px;  
+}input{
+    width: 200px;
+    height: 30px;
+    border-radius: 50px;
+}textarea{border-radius: 50px;
+}
+.sticky{
+    margin-left: 1350px;
+    position: sticky;
+    top: 300px;
+    font-size: 70px;
+    color: black;
+}.sticky:hover{
+    font-size: 100px;
+    color: rgb(226, 136, 72);
+}
